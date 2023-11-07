@@ -1,0 +1,43 @@
+                /*Color Name Method  */
+/* h1{
+    color: tomato;
+} */
+
+                /*Hex Code Mathod  */
+/* h1{
+    color: #3333b0;
+} */
+
+                /* RGB Method  */
+/* h1{
+    color: rgb(18, 233, 90);
+}         */
+
+                /* Changing Background Color Through CSS */
+/* body{
+    background-color: wheat;
+    color: red;
+} */
+/* div{
+    background-color: orange;
+    color: blue;
+} */
+
+                /* Understanding Opacity Through CSS */
+
+h1{
+    color: red;
+    }
+#div1{
+    color: rgb(233, 14, 50);
+    background-color: yellow;
+    opacity: 0.9;
+}
+#div2{
+    color: orange;
+    background-color: blueviolet;
+    opacity: 0.4;
+}
+img{
+    opacity: 0.5;
+}
